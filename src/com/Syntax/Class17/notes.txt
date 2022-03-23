@@ -1,0 +1,19 @@
+Types of variables:
+There are 3 type of variables=> local, instance and static
+
+Class Vars{
+int age=10; // instance variable class içinde
+static double weight=25.5; // class için e basında static varsa ==> static variable
+
+void method(){
+Strşng name="Moored"; //local variable (metod içinde if for loop gibi de olabilir)
+
+}
+}
+local variables:
+if a variable is defined inside a method or loop or switch or any other block
+of code it is called local variable.
+Instane vasriables:
+If a variable is not declared inside a method but
+
+
